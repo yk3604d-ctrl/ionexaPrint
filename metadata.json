@@ -1,0 +1,5 @@
+{
+  "name": "IONEXAPRINT",
+  "description": "Premium 3D Printing Business - Custom Designs, Templates, and Ready-to-Print Products.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
